@@ -4,7 +4,7 @@ I'm Jeroen, a budding software developer who is currently learning to code.
 Currently I'm learning the basics on HTML, CSS and JavaScript.
 I'm planning to become a full-stack developer soon!
 
-## Programming Languages
+### Programming Languages
 - JavaScript
 
 <!--
